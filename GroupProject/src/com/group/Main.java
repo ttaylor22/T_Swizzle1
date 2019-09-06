@@ -6,12 +6,32 @@ public class Main {
 		System.out.println("Mike Ramrirez");
 	}
 	
-	public static void jlugo() {
-		System.out.println("Johnathan Lugo");
+	public static void alex() {
+		System.out.println("Mike Likes Feet.");
+	}
+  
+  public static void heinrich()
+	{
+		System.out.println("Heinrich Chen");
 	}
 	
-	public static void main(String [] args){
-
-		jlugo();
+	public static void alana()
+	{
+		System.out.println("This line is from Alana Icenoad");
+  }
+	
+  public static void jlugo() {
+		System.out.println("Johnathan Lugo");
 	}
-}
+	public static void main(String [] args){
+	
+		mike();
+		alex();
+    heinrich();
+    alana();
+    jlugo();
+	}
+	
+	
+
+
