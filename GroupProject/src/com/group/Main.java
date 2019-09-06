@@ -6,12 +6,33 @@ public class Main {
 		System.out.println("Mike Ramrirez");
 	}
 	
+	public static void alex() {
+		System.out.println("Mike Likes Feet.");
+	}
+  
+  public static void heinrich()
+	{
+		System.out.println("Heinrich Chen");
+	}
 	
+	public static void alana()
+	{
+		System.out.println("This line is from Alana Icenoad");
+  }
+	
+  public static void jlugo() {
+		System.out.println("Johnathan Lugo");
+	}
 	public static void main(String [] args){
-		Main m = new Main();
-		m.mike();
-		MikeIsTrash.playsWoW();
+	
+		mike();
+		alex();
+    heinrich();
+    alana();
+    jlugo();
+    MikeIsTrash.playsWoW();
 		MikeIsTrash.activates();
 		MikeIsTrash.eatsMashPotatoes();
 	}
-}
+	
+	
