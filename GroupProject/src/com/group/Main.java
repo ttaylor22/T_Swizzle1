@@ -27,8 +27,8 @@ public class Main {
 		System.out.println("Johnathan Lugo");
 	}
 	
-	public static void main(String [] args){
-	
+	public static void main(String[] args) {
+
 		mike();
 		alex();
 		heinrich();
@@ -38,5 +38,5 @@ public class Main {
 		MikeIsTrash.activates();
 		MikeIsTrash.eatsMashPotatoes();
 	}
-	
+}
 	
