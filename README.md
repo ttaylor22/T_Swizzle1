@@ -3,3 +3,4 @@ Tevin Taylor
 Alex Larcheveque  
 Michael Ramirez
 Heinrich Chen
+Manoj George
