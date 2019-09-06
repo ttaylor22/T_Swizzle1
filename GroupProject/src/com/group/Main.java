@@ -30,8 +30,9 @@ public class Main {
     heinrich();
     alana();
     jlugo();
+    MikeIsTrash.playsWoW();
+		MikeIsTrash.activates();
+		MikeIsTrash.eatsMashPotatoes();
 	}
 	
 	
-
-
