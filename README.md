@@ -1,8 +1,8 @@
 # T_Swizzle1
-
-Alex Larcheveque  
-Michael Ramirez
-Heinrich Chen
+Tevin Taylor<br>
+Johnathan Lugo<br>
+Alana Icenroad<br>
+*Alex Larcheveque* <br>
+Michael Ramirez<br>
+Heinrich Chen<br>
 Manoj George
-
-master
