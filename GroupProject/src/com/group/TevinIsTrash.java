@@ -1,6 +1,6 @@
 package com.group;
 
-public class MikeIsTrash {
+public class TevinIsTrash {
 
 		public static void eatsMashPotatoes() {
 			System.out.println("Im eating mashed potatoes");
