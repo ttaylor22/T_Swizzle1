@@ -8,10 +8,10 @@ Heinrich Chen<br>
 Manoj George <br>
 
 <b>
-Alex is trash and everyone knows it.<br>
+Tevin is trash and everyone knows it.<br>
 Manoj thinks he's mister big shot, but he ain't. <br>
-Michael is a robot and eats nothing, but mash potatoes. <br>
-P.S. Michael also adds a little gravy to them mash potatoes. <br>
+Tevin is a robot and eats nothing, but mash potatoes. <br>
+P.S. Tevin also adds a little gravy to them mash potatoes. <br>
 </b><br>
 
 
@@ -67,7 +67,7 @@ Jlugo changes<br>
     .-"-.
    //\ /\\
  _// / \ \\_
-=./ {,-.} \.=
+=./ {,-------------------------------.} \.=
     || ||
     || ||    
   __|| ||__  
