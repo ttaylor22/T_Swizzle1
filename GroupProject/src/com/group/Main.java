@@ -12,8 +12,18 @@ public class Main {
 	}
 	
 	public static void main(String [] args){
+
+		mike();
+		alana();
+	}
+	
+	public static void alana()
+	{
+		System.out.println("This line is from Alana Icenoad");
+
 		Main m = new Main();
 		m.mike();
 		heinrich();
+
 	}
 }
