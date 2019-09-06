@@ -12,7 +12,7 @@ public class Main {
   
   public static void heinrich()
 	{
-		System.out.println("Heinrich Chen");
+		System.out.println("AYYLMAO Heinrich Chen");
 	}
 	
 	public static void alana()
@@ -24,9 +24,9 @@ public class Main {
 		Main m = new Main();
 		m.mike();
 		m.alex();
-    m.heinrich();
-    m.alana();
+		m.heinrich();
+		m.alana();
 	}
-	
+}
 	
 
