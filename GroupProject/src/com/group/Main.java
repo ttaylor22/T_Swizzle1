@@ -20,13 +20,18 @@ public class Main {
 		System.out.println("This line is from Alana Icenoad");
   }
 	
+  public static void jlugo() {
+		System.out.println("Johnathan Lugo");
+	}
 	public static void main(String [] args){
 	
 		mike();
 		alex();
     heinrich();
     alana();
+    jlugo();
 	}
 	
 	
+
 
