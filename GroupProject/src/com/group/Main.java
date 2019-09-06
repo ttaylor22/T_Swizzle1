@@ -27,9 +27,9 @@ public class Main {
 	
 		mike();
 		alex();
-    heinrich();
-    alana();
-    jlugo();
+		heinrich();
+		alana();
+		jlugo();
 	}
 	
 	
