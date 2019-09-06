@@ -12,7 +12,7 @@ public class Main {
   
   public static void heinrich()
 	{
-		System.out.println("AYYLMAO Heinrich Chen");
+		System.out.println("AYYLMAO2 Heinrich Chen");
 	}
 	
 	public static void alana()
