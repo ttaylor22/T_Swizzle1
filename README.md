@@ -4,7 +4,7 @@ Johnathan Lugo<br>
 Alana Icenroad<br>
 *Alex Larcheveque* <br>
 Michael Ramirez<br>
-Heinrich Chen<br>
+Heinrich Chen 2<br>
 Manoj George <br>
 
 ## BREAKING FREE 
