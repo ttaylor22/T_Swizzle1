@@ -7,7 +7,12 @@ public class Main {
 	}
 	
 	public static void main(String [] args){
-		Main m = new Main();
-		m.mike();
+		mike();
+		alana();
+	}
+	
+	public static void alana()
+	{
+		System.out.println("This line is from Alana Icenoad");
 	}
 }
