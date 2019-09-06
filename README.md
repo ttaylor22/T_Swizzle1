@@ -46,3 +46,16 @@ If we're trying<br>
 Yeah we're breaking free<br>
 Ohhh, breaking free<br>
 Oooh…<br>
+
+    o   o
+     )-(
+    (O O)
+     \=/
+    .-"-.
+   //\ /\\
+ _// / \ \\_
+=./ {,-.} \.=
+    || ||
+    || ||    
+  __|| ||__  
+ `---" "---'
