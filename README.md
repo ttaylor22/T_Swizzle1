@@ -7,7 +7,13 @@ Michael Ramirez<br>
 Heinrich Chen<br>
 Manoj George <br>
 
-## BREAKING FREE 
+<b>
+Alex is trash and everyone knows it.<br>
+Manoj thinks he's mister big shot, but he ain't. <br>
+Michael is a robot and eats nothing, but mash potatoes. <br>
+P.S. Michael also adds a little gravy to them mash potatoes. <br>
+</b><br>
+
 
 We're soarin', flyin' <br>
 There's not a star in heaven <br>
