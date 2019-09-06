@@ -1,6 +1,6 @@
 # T_Swizzle1
+<h1>Johnathan Lugo</h1>
 Tevin Taylor <br>
-Johnathan Lugo <br>
 Alana Icenroad <br>
 Alex Larcheveque  <br>
 Michael Ramirez<br>
