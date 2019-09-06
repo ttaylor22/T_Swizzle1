@@ -1,8 +1,10 @@
 # T_Swizzle1
-Alana Icenroad
 Tevin Taylor
+Johnathan Lugo
+Alana Icenroad
 Alex Larcheveque  
 Michael Ramirez
 Heinrich Chen
 Manoj George
+
 
