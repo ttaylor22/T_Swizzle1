@@ -3,15 +3,15 @@ Tevin Taylor<br>
 Johnathan Lugo<br>
 Alana Icenroad<br>
 *Alex Larcheveque* <br>
-Michael Ramirez<br>
+*Michael Ramirez* <i>Trashmaster flex</i><br>
 Heinrich Chen<br>
 Manoj George <br>
 
 <b>
-Tevin is trash and everyone knows it.<br>
+Michael is trash and everyone knows it.<br>
 Manoj thinks he's mister big shot, but he ain't. <br>
-Tevin is a robot and eats nothing, but mash potatoes. <br>
-P.S. Tevin also adds a little gravy to them mash potatoes. <br>
+Michael is a robot and eats nothing, but mash potatoes. <br>
+P.S. Michael also adds a little gravy to them mash potatoes. <br>
 </b><br>
 
 
@@ -67,7 +67,7 @@ Jlugo changes<br>
     .-"-.
    //\ /\\
  _// / \ \\_
-=./ {,-------------------------------.} \.=
+  =./   \.=
     || ||
     || ||    
   __|| ||__  
