@@ -1,17 +1,17 @@
 # Awesome Blossoms
-Tevin Taylor -Trashmaster fat<br><br>
+Tevin Taylor <br>
 Johnathan Lugo<br>
 Alana Icenroad<br>
 *Alex Larcheveque* <br>
-*Michael Ramirez* 
+*Michael Ramirez* -Trashmaster man boobs<br>
 Heinrich Chen<br>
 Manoj George <br>
 
 <b>
-Tevin is trash and everyone knows it.<br>
+Michael is trash and everyone knows it.<br>
 Manoj thinks he's mister big shot, but he ain't. <br>
-Tevin is a robot and eats nothing, but peanuts <br>
-P.S. Tevin also adds a little gravy to them peanuts. <br>
+Michael is a robot and eats nothing, but peanuts <br>
+P.S. Michael also adds a little gravy to them peanuts. <br>
 </b><br>
 
 
@@ -60,7 +60,7 @@ testing123<br>
 
 Jlugo changes<br>
 
-## A Drawing - By Tevin Taylor
+## A Drawing - By Michael Ramirez
 
     o   o
      )-(
