@@ -34,9 +34,9 @@ public class Main {
 		heinrich();
 		alana();
 		jlugo();
-		TevinIsTrash.playsWoW();
-		TevinIsTrash.activates();
-		TevinIsTrash.eatsMashPotatoes();
+		MikeIsTrash.playsWoW();
+		MikeIsTrash.activates();
+		MikeIsTrash.eatsMashPotatoes();
 	}
 }
 	
